@@ -12,5 +12,6 @@ public class ds005 {
 
         System.out.println("antecessor: " + ant);
         System.out.println("sucessor: " + suc);
+        scanner.close();
     }
 }

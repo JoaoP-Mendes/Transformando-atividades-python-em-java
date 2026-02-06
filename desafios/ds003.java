@@ -13,5 +13,6 @@ public class ds003 {
 
         int soma = n1 + n2;
         System.out.println("O valor da soma é " + soma);
+        scanner.close();
     }
 }

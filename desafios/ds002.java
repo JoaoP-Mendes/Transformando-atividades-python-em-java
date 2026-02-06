@@ -8,5 +8,6 @@ public class ds002 {
         String nome = Scanner.nextLine();
 
         System.out.println("Prazer em te conhecer, " + nome);
+        Scanner.close();
     }
 }

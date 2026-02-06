@@ -13,6 +13,7 @@ public class ds012 {
 
         /*System.out.printf("\nO preço teve um desconto de 5% de R$%.2f para R$%.2f", preco, desconto); 
         => Não posso usar % na linha do côdigo que dá erro*/
+        input.close();
     }
 }
 //

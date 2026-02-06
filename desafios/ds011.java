@@ -14,6 +14,6 @@ public class ds011 {
 
         double tinta = area / 2;
         System.out.printf("\nPara pintar essa parede será necessário %.2fL de tinta", tinta);
-
+        input.close();
     }
 }
