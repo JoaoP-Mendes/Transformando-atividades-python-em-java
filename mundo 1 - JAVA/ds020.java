@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Collection;
 import java.util.Collections;
 
 public class ds020 {

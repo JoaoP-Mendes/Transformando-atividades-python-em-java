@@ -14,5 +14,7 @@ public class ds024 {
         } else {
             System.out.print("\nA cidade NÃO começa com SANTO");
         }
+    input.close();
     }
+
 }
